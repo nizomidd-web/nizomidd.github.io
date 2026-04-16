@@ -18,22 +18,22 @@ url                      : https://academicpages.github.io # The base hostname &
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
+# Site Author - Charos Nizomiddinova
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/nizomidd-web/nizomidd.github.io/blob/master/images/photo_2026-04-16_16-40-04.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "photo_2026-04-16_16-40-04.jpg"
+  name             : "Charos Nizomiddin"
+  pronouns         : "she/her"  
   bio              : "I worked as an editor, columnist, and journalist for media companies in Uzbekistan for several years. However, two years ago I decided to leave this field and try myself in other fields, such as social sciences, art, games, and management"
   location         : "Edmonton, AB"
-  employer         : "University of Alberta"
+  employer         : "The University of Alberta"
   uri              : # URL
   email            : "nizomidd@ualberta.ca" 
 
   # Academic websites
-  academia         : # URL
+  academia         : # URL 
   arxiv            : # URL - Update with the correct link to your profile
   inspire-hep      : # URL
   impactstory      : # URL
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username Charos Nizomiddinova
+  linkedin         : "Charos Nizomiddinova"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -216,22 +216,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-
-# These settings control the types of collections used by the template
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
