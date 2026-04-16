@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://github.com/nizomidd-web/nizomidd.github.io/blob/master/images/photo_2026-04-16_16-40-04.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "I worked as an editor, columnist, and journalist for media companies in Uzbekistan for several years. However, two years ago I decided to leave this field and try myself in other fields, such as social sciences, art, games, and management"
-  location         : "Edmonton"
-  employer         : "Uiversity of Alberta"
+  location         : "Edmonton, AB"
+  employer         : "University of Alberta"
   uri              : # URL
   email            : "nizomidd@ualberta.ca" 
 
